@@ -22,9 +22,7 @@ Install the project in editable mode:
 pip install -e .
 ```
 
-This adds the repository root to Python's module search path, allowing you to run any solution directly.
-
-For example:
+Then you can run any 'events' python script directly, like this:
 ```bash
 python3 events/2015/day1/not_quite_lisp.py
 ```
