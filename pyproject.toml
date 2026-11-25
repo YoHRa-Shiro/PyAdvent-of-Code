@@ -1,0 +1,16 @@
+[project]
+name = "pyadvent-of-code"
+version = "0.0.1"
+
+[tool.ruff]
+line-length = 140
+target-version = "py314"
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "F",   # Pyflakes
+    "I",   # Import sorting
+    "UP",  # Modern Python syntax
+    "B",   # Bugbear (common bugs and bad practices)
+]
