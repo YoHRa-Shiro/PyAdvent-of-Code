@@ -24,7 +24,7 @@ pip install -e .
 
 Then you can run any 'events' python script directly, like this:
 ```bash
-python3 events/2015/day1/not_quite_lisp.py
+python3 events/2015/day01/solution.py
 ```
 
 ## About Advent of Code
