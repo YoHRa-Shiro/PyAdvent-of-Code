@@ -1,0 +1,13 @@
+{
+    "input": "ckczppom",
+    "examples": [
+        {
+            "input": "abcdef",
+            "result": 609043
+        },
+        {
+            "input": "pqrstuv",
+            "result": 1048970
+        }
+    ]
+}
