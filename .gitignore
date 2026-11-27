@@ -1,5 +1,6 @@
 # Advent of Code - template
 day00/
+sandbox.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
